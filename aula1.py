@@ -57,18 +57,18 @@ Aula2
 # bonus=anos*valor
 # print('Bôns em R$:',bonus)
 
-#exercicio:1
+#exercicio:4
 # num1=int(input("Numero 1:"))
 # num2=int(input('Numero 2:'))
 # soma=num1+num2
 # print('A soma é:', soma)
 
-#exercicio:2
+#exercicio:5
 # metro=int(input('numero em metros:'))
 # a1=metro*(10**3)
 # print('metos em milímetros:', a1)
 
-#exercicio:3
+#exercicio:6
 # dia=int(input('dias:'))
 # hora=int(input('horas:'))
 # min=int(input('minutos:'))
@@ -78,9 +78,19 @@ Aula2
 # a3=min*60*a2+seg
 # print(a3)
 
-#exercicio:4
+#exercicio:7
 #salario1=int(input('salario:'))
 #por=int(input('porcentagem:'))
 #a1=1+(10**-2*por)
 #a2=salario1*a1
 #print('novo salario:',a2)
+
+# exercicio:8
+# preço=int(input('preço do produto: '))
+# desconto=int(input('descomto em porcentagem: '))
+# a1=(10**-2*desconto)*preço
+# print(f'preço atual é R${a1}')
+
+# exercicio:9
+dis=int(input('distancia percorida: '))
+tm=int(input('tempo percorido:'))
